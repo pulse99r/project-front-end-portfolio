@@ -23,7 +23,7 @@ In addition to attaining at least 21 points, you must also complete one or more 
 
 1. Create a GitHub repository and upload your code to it.
 1. Your GitHub repository should have a `readme.md` file with setup instructions for your application.
-1. Your project should have a coherent theme and narrative.
+1. Your project should have a [b]coherent theme and narrative[/b].
 1. Your project should be deployed to the web.
 
 #### Front-end visual requirements
